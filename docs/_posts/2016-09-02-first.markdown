@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "First Post"
+subtitle:   "feels awesome!"
+date:       2016-09-02 19:21:21
+author:     "me"
+header-img: "img/post-bg-03.jpg"
+---
+
+<h2 class="section-heading">Finally !</h2>
+<p>Starting my blog today. Till now it was all in my sweet little diary. The time has come to make a few gems public. :D <p>
+<p>Feels great.<p>
