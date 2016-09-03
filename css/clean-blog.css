@@ -6,12 +6,13 @@
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 20px;
+  font-size: 18px;
   color: #404040;
 }
 p {
   line-height: 1.5;
   margin: 30px 0;
+  text-align: justify;
 }
 p a {
   text-decoration: underline;
@@ -400,4 +401,7 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+ul li {
+  text-align: justify;
 }

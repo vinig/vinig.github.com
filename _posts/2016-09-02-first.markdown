@@ -2,7 +2,7 @@
 layout:     post
 title:      "First Post"
 subtitle:   "feels awesome!"
-date:       2016-09-02 19:21:21
+date:       2016-09-02
 author:     "me"
 header-img: "img/post-bg-03.jpg"
 ---
