@@ -8,5 +8,5 @@ header-img: "img/post-bg-03.jpg"
 ---
 
 <h2 class="section-heading">Finally !</h2>
-<p>Starting my blog today. Till now it was all in my sweet little diary. The time has come to make a few gems public. :D <p>
+<p>Starting my blog today. Till now, it was all in my sweet little diary. The time has come to make a few 'pearls of wisdom' public. :D <p>
 <p>Feels great.<p>

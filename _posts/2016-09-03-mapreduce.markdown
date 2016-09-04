@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "MapReduce"
-subtitle:   "research paper by Jeff Deans and Sanjay Ghemawat explained."
+subtitle:   "research paper by Jeff Deans and Sanjay Ghemawat, explained."
 date:       2016-09-03
 author:     "me"
 header-img: "img/post-bg-02.jpg"
