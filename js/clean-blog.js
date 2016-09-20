@@ -30,14 +30,12 @@ $(function() {
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
+            var completeMessage = `You have received a message from your website contact form.\n\n. Here are the details:\n\nName: ${name}\n\nEmail: ${email_address}\n\nPhone: ${phone}\n\nMessage:\n${message}`;
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "//formspree.io/vini.gupta03@gmail.com",
                 type: "POST",
                 data: {
-                    name: name,
-                    phone: phone,
-                    email: email,
-                    message: message
+                    message: completeMessage
                 },
                 cache: false,
                 success: function() {
