@@ -32,12 +32,10 @@ $(function() {
             }
             var completeMessage = `You have received a message from your website contact form.\n\n. Here are the details:\n\nName: ${name}\n\nEmail: ${email_address}\n\nPhone: ${phone}\n\nMessage:\n${message}`;
             $.ajax({
-                url: "//formspree.io/vini.gupta03@gmail.com",
-                type: "POST",
-                data: {
-                    message: completeMessage
-                },
-                cache: false,
+                url: "https://formspree.io/vini.gupta03@gmail.com",
+                method: "POST",
+                data: {message: completeMessage},
+                dataType: "json",
                 success: function() {
                     // Success message
                     $('#success').html("<div class='alert alert-success'>");
